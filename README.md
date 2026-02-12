@@ -15,14 +15,6 @@ I care about **system designs** and try my best in it.
 
 ---
 
-## Current Focus
-- Automation tools  
-- Voice + local AI systems  
-- Clean UI + system design  
-- Backend logic and data systems  
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -45,17 +37,6 @@ I care about **system designs** and try my best in it.
 
 **Other**
 - Electron  
-
----
-
-## Projects
----
-
-### Quest/Tracker System
-A structured system for tracking goals and progression  
-- quest-based design  
-- personal analytics  
-- AI integration  
 
 ---
 
