@@ -18,11 +18,7 @@ I care about **system designs** and try my best in it.
 ## Tech Stack
 
 **Languages**
-- TypeScript
-- Python
-- Java
-- c#
-- SQL
+- TypeScript, Python, Java, c#, SQL
 
 **Frontend**
 - Angular  
@@ -39,10 +35,6 @@ I care about **system designs** and try my best in it.
 - Electron  
 
 ---
-
-## Philosophy
-I don’t build random apps.  
-I build **systems that compound**.
 
 Every tool should:
 - save time  
